@@ -12,46 +12,4 @@ build_property.MSBuildProjectDirectory = c:\Users\Ricardo\Desktop\biblilioteca
 build_property.DesignTimeBuild = true
 build_property._RazorReferenceAssemblyTagHelpersOutputPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\RazorTagHelper.refs.out.cache
 build_property._RazorSourceGeneratorDebug = 
-build_property._RazorSourceGeneratorLog = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\Home\Index.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\Home\Index.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\Home\Privacy.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\Home\Privacy.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\Shared\Error.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\Shared\Error.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\Shared\_Layout.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\Shared\_ValidationScriptsPartial.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\_ViewImports.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\_ViewImports.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/Ricardo/Desktop/biblilioteca/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Views\_ViewStart.cshtml
-build_metadata.AdditionalFiles.GeneratedOutputFullPath = c:\Users\Ricardo\Desktop\biblilioteca\obj\Debug\net6.0\Razor\Views\_ViewStart.cshtml.g.cs
-build_metadata.AdditionalFiles.GeneratedDeclarationFullPath = 
-build_metadata.AdditionalFiles.CssScope =
+build_property._RazorSourceGeneratorLog =
